@@ -1,0 +1,6 @@
+browser chrome
+url http://localhost:8888/
+un admin
+pw admin
+browser1 firefox
+browser2 edge
