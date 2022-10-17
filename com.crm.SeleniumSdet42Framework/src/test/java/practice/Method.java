@@ -25,6 +25,6 @@ public class Method {
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
 		}
-		System.out.println("hello");
+		System.out.println("hello 121");
 	}
 }
