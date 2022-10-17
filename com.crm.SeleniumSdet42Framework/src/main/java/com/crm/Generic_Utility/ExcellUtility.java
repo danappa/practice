@@ -11,7 +11,7 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 public class ExcellUtility {
 	/**
-	 * this method is used to get the data from excell
+	 * this method is used to get the data from excell File
 	 * @param SheetName
 	 * @param Row
 	 * @param Cell
