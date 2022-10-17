@@ -7,7 +7,7 @@ import java.util.Properties;
 
 public class FileUtility {
     /**
-     * The Method is used to get the data from the property file
+     * The Method is used to get the common data from the property file
      * @param Key
      * @return
      * @throws IOException
